@@ -1,0 +1,21 @@
+@import 'utils/variables';
+@import 'components/type';
+
+.searchresult{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    &__pics{
+        display: flex;
+        flex-direction: row;
+        align-items: baseline;
+        justify-content: center;
+        width: fit-content;
+    }
+    &__img{
+        width: 20%;
+        height: auto;
+        margin: 0 1em;
+    }
+}

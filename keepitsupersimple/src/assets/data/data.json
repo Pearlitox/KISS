@@ -1,0 +1,208 @@
+[
+    {
+      "Noa GHILLAIN CRUZ" :{
+        "phrase1": "https://noaghi.be/les_phrases/phrases1/",
+        "phrase2": "https://noaghi.be/les_phrases/phrases2/",
+        "phrase3": "",
+        "image1": "assets/data/Les_phrases_screens/noaghi.be_les_phrases_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/noaghi.be_les_phrases_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/noaghi.be_les_phrases_phrases3_(iPad Air).png"
+      }
+
+    },
+    {
+      "Célia BARGOIN" :{
+        "phrase1": "https://celia-bargoin.be/projets/phrases1/",
+        "phrase2": "https://celia-bargoin.be/projets/phrases2/",
+        "phrase3": "https://celia-bargoin.be/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/celia-bargoin.be_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/celia-bargoin.be_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/celia-bargoin.be_projets_phrases3_(iPad Air).png"
+      }
+      
+    },
+    {
+      "Alyssa BEAUFILS":{
+        "phrase1": "https://alyssabeaufils.be/projets/phrases1/",
+        "phrase2": "https://alyssabeaufils.be/projets/phrases2/",
+        "phrase3": "https://alyssabeaufils.be/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/alyssabeaufils.be_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/alyssabeaufils.be_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/alyssabeaufils.be_projets_phrases3_(iPad Air).png"
+      }
+
+    },
+    {
+      "Benjamin BRIHAYE":{
+        "phrase1": "https://benjaminbrihaye.com/projets/phrases1/",
+        "phrase2": "https://benjaminbrihaye.com/projets/phrases2/",
+        "phrase3": "https://benjaminbrihaye.com/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/benjaminbrihaye.com_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/benjaminbrihaye.com_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/benjaminbrihaye.com_projets_phrases3_(iPad Air).png"}
+
+    },
+    {
+      "Thomas BRUCH":{
+        "phrase1": "https://www.thomasbruch.be/projets/phrases1/",
+        "phrase2": "https://www.thomasbruch.be/projets/phrases2/",
+        "phrase3": "https://www.thomasbruch.be/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/www.thomasbruch.be_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/www.thomasbruch.be_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/www.thomasbruch.be_projets_phrases3_(iPad Air).png"
+      }
+
+    },
+    {
+      "Théo COLPAERT":{
+        "phrase1": "https://theocolpaert.be/projets/phrases1/",
+        "phrase2": "https://theocolpaert.be/projets/phrases2/",
+        "phrase3": "https://theocolpaert.be/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/theocolpaert.be_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/theocolpaert.be_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/theocolpaert.be_projets_phrases3_(iPad Air).png"
+      }
+
+    },
+    {
+      "Sébastien D'AGOSTIN":{
+        "phrase1": "https://www.sebastien-dagostin.be/projets/phrases1",
+        "phrase2": "https://www.sebastien-dagostin.be/projets/phrases2",
+        "phrase3": "https://www.sebastien-dagostin.be/projets/phrases3",
+        "image1": "assets/data/Les_phrases_screens/www.sebastien-dagostin.be_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/www.sebastien-dagostin.be_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/www.sebastien-dagostin.be_projets_phrases3_(iPad Air).png"
+      }
+
+    },
+    {
+      "Briac DANNEQUIN":{
+        "phrase1": "https://www.briac-dannequin.be/projets/phrases1/",
+        "phrase2": "https://www.briac-dannequin.be/projets/phrases2/",
+        "phrase3": "https://www.briac-dannequin.be/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/www.briac-dannequin.be_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/www.briac-dannequin.be_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/www.briac-dannequin.be_projets_phrases3_(iPad Air).png"
+      }
+
+    },
+    {
+      "Danica DELFOSSE":{
+        "phrase1": "https://alyssabeaufils.be/projets/DANICA/phrases1/",
+        "phrase2": "https://alyssabeaufils.be/projets/DANICA/phrases2/",
+        "phrase3": "https://alyssabeaufils.be/projets/DANICA/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/alyssabeaufils.be_projets_DANICA_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/alyssabeaufils.be_projets_DANICA_phrases1_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/alyssabeaufils.be_projets_DANICA_phrases1_(iPad Air).png"
+      }
+
+    },
+    {
+      "Emma DELTENRE":{
+        "phrase1": "https://emma-deltenre.be/projets/phrases1/",
+        "phrase2": "https://emma-deltenre.be/projets/phrases2/",
+        "phrase3": "https://emma-deltenre.be/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/emma-deltenre.be_projets_phrase1.png",
+        "image2": "assets/data/Les_phrases_screens/emma-deltenre.be_projets_phrase2.png",
+        "image3": "assets/data/Les_phrases_screens/emma-deltenre.be_projets_phrase3.png"
+      }
+
+    },
+    {
+        "Jarne DE SCHEERDER":{
+            "phrase1": "https://jarnedescheerder.be/projets/phrases1/",
+            "phrase2": "https://jarnedescheerder.be/projets/phrases2/",
+            "phrase3": "https://jarnedescheerder.be/projets/phrases3/",
+            "image1": "assets/data/Les_phrases_screens/jarnedescheerder.be_projets_phrases1_(iPad Air).png",
+            "image2": "assets/data/Les_phrases_screens/jarnedescheerder.be_projets_phrases2_(iPad Air).png",
+            "image3": "assets/data/Les_phrases_screens/jarnedescheerder.be_projets_phrases3_(iPad Air).png"
+        }
+       
+      },
+      {
+        "Aurélien FEYE":{
+                    "phrase1": "http://aurelienfeye.be/projets/phrases1/",
+        "phrase2": "http://aurelienfeye.be/projets/phrases2/",
+        "phrase3": "http://aurelienfeye.be/projets/phrases3/",
+        "image1": "assets/data/Les_phrases_screens/aurelienfeye.be_projets_phrases1_(iPad Air).png",
+        "image2": "assets/data/Les_phrases_screens/aurelienfeye.be_projets_phrases2_(iPad Air).png",
+        "image3": "assets/data/Les_phrases_screens/aurelienfeye.be_projets_phrases3_(iPad Air).png"
+        }
+
+      },
+      {
+        "Arthur HALBART":{
+            "phrase1": "https://arthurhalbart.be/projets/phrases1/",
+            "phrase2": "https://arthurhalbart.be/projets/phrases2/",
+            "phrase3": "https://arthurhalbart.be/projets/phrases3/",
+            "image1": "assets/data/Les_phrases_screens/arthurhalbart.be_projets_phrases1_(iPad Air).png",
+            "image2": "assets/data/Les_phrases_screens/arthurhalbart.be_projets_phrases2_(iPad Air).png",
+            "image3": "assets/data/Les_phrases_screens/arthurhalbart.be_projets_phrases3_(iPad Air).png"
+        }
+
+      },
+      {
+        "Lucas LABIOUSE":{
+            "phrase1": "https://lucaslabiouse.be/projets/phrases1/",
+            "phrase2": "https://lucaslabiouse.be/projets/phrases2/",
+            "phrase3": "https://lucaslabiouse.be/projets/phrases3/",
+            "image1": "assets/data/Les_phrases_screens/lucaslabiouse.be_projets_phrases1_(iPad Air).png",
+            "image2": "assets/data/Les_phrases_screens/lucaslabiouse.be_projets_phrases2_(iPad Air).png",
+            "image3": "assets/data/Les_phrases_screens/lucaslabiouse.be_projets_phrases3_(iPad Air).png"
+        }
+
+      },
+      {
+        "Nicolas LEFEBVRE":{
+            "phrase1": "https://nicolaslefebvre.be/projets/phrases1/",
+            "phrase2": "https://nicolaslefebvre.be/projets/phrases2/",
+            "phrase3": "https://nicolaslefebvre.be/projets/phrases3/",
+            "image1": "assets/data/Les_phrases_screens/nicolaslefebvre.be_projets_phrases1_(iPad Air).png",
+            "image2": "assets/data/Les_phrases_screens/nicolaslefebvre.be_projets_phrases2_(iPad Air).png",
+            "image3": "assets/data/Les_phrases_screens/nicolaslefebvre.be_projets_phrases3_(iPad Air).png"
+        }
+
+      },
+      {
+        "Gabriel MANCIU":{
+            "phrase1": "https://gabriel-manciu.be/projets/phrases1",
+            "phrase2": "https://gabriel-manciu.be/projets/phrases2",
+            "image1": "",
+            "image2": "",
+            "image3": ""
+        }
+
+      },
+      {
+        "Léa PERRAUX":{
+            "phrase1": "https://leaperraux.ovh/projets/phrase1/",
+            "phrase2": "https://leaperraux.ovh/projets/phrases2/",
+            "phrase3": "https://leaperraux.ovh/projets/phrases3/",
+            "image1": "assets/data/Les_phrases_screens/leaperraux.ovh_projets_phrase1_(iPad Air).png",
+            "image2": "assets/data/Les_phrases_screens/leaperraux.ovh_projets_phrase2_(iPad Air).png",
+            "image3": "assets/data/Les_phrases_screens/leaperraux.ovh_projets_phrase3_(iPad Air).png"
+        }
+
+      },
+      {
+        "Elodie SOMERLINCK":{
+            "phrase1": "http://elodiesomer.be/projets/10x10/les_phrases/phrases1/",
+            "phrase2": "http://elodiesomer.be/projets/10x10/les_phrases/phrases2/",
+            "phrase3": "http://elodiesomer.be/projets/10x10/les_phrases/phrases3/",
+            "image1": "assets/data/Les_phrases_screens/elodiesomer.be_projets_10x10_les_phrases_phrases1_(iPad Air).png",
+            "image2": "assets/data/Les_phrases_screens/elodiesomer.be_projets_10x10_les_phrases_phrases2_(iPad Air).png",
+            "image3": "assets/data/Les_phrases_screens/elodiesomer.be_projets_10x10_les_phrases_phrases3_(iPad Air).png"
+        }
+
+      },
+      {
+        "Sahan TOKSÖZ":{
+            "phrase1": "http://sahantoksoz.be/projets/phrases1/",
+            "phrase2": "http://sahantoksoz.be/projets/phrases2_grid/",
+            "phrase3": "http://sahantoksoz.be/projets/phrases3/",
+            "image1": "assets/data/Les_phrases_screens/sahantoksoz.be_projets_phrases1_grid_(iPad Air).png",
+            "image2": "assets/data/Les_phrases_screens/sahantoksoz.be_projets_phrases2_grid_(iPad Air).png"
+        }
+
+    }
+  ]
